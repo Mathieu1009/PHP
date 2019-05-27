@@ -1,0 +1,20 @@
+.content {
+    margin: 100px 0;
+    text-align: center;
+}
+
+.content p {
+    margin: 5px 0;
+}
+
+table, table tr, table td, table th {
+    border: 1px solid black;
+}
+table td, table th {
+    padding: 5px 40px;
+}
+
+#td-img {
+    height: 100px;
+    width: 150px;
+}
